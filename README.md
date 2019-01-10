@@ -1,1 +1,1 @@
-# TEP
+TEP stands for The Elections Project

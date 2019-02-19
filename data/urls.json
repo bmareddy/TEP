@@ -1,5 +1,5 @@
 [{"state":"AL","url":"https://www.sos.alabama.gov/alabama-votes/voter/election-data","notes":"year,description,downloadlink html page"}
-,{"state":"AK","url":"http://www.elections.alaska.gov/results/YYGENR/data/resultsbyprecinct.txt","notes":"replace YY with year. For primaries, replace GENR with PRIM"}
+,{"state":"AK","url":"http://www.elections.alaska.gov/results/YYGENR/data/results.txt","notes":"replace YY with year. For primaries, replace GENR with PRIM"}
 ,{"state":"AZ","url":"","notes":""}
 ,{"state":"AR","url":"","notes":""}
 ,{"state":"CA","url":"","notes":""}

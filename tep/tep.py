@@ -1,8 +1,9 @@
-from state import State
+import state
 """
 
 """
 
 if __name__ == "__main__":
-    state = State("PA")
-    print(state.name)
+    AK = state.AK()
+    print(AK.name)
+    AK.load_raw_files_to_database(2018)
